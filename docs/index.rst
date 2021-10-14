@@ -6,7 +6,7 @@
 Welcome to QT_HUAMIAN's documentation!
 ======================================
 
-欢迎来到QT画面大型集合现场，哈哈O(∩_∩)O，随便说说了。
+这里是关于本项目的一些文档。
 
 .. toctree::
    :maxdepth: 2
