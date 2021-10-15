@@ -6,7 +6,7 @@
 Welcome to QT_HUAMIAN's documentation!
 ======================================
 
-这里是关于本项目的一些文档。
+这里是关于本项目的一些文档,以及一些实例说明。
 
 .. toctree::
    :maxdepth: 2
